@@ -2,6 +2,8 @@
 
 This project implements a Tic Tac Toe game with an unbeatable AI opponent using the minimax algorithm. The AI player is designed to never lose, ensuring a challenging experience for users.
 
+## Project Demo: https://youtu.be/QfEb0bBzi2k?si=Jao60LeBNOxes531
+
 ## Features
 
 - **Gameplay**: Play against the computer AI or another player.
